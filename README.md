@@ -1,1 +1,1 @@
-# IS6751-Rumour-Detection-on-Microblogs-Tweets
+# Rumour-Detection-on-Microblogs-Tweets
